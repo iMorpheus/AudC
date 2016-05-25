@@ -1,6 +1,10 @@
 # AudC
 Converts audio files from one format to another.
 
+# Requirements
+- OS X
+- afconvert
+
 # Use
 1. Navigate to directory containing audio file you would like to convert.
 2. Call AudC.sh
